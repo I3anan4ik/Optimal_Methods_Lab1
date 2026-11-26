@@ -1,2 +1,0 @@
-# Optimal_Methods_Lab1
-Optimal_Methods_Lab1
